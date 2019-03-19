@@ -1,5 +1,5 @@
 {
-  "name": "deepstream.io",
+  "name": "charcoal-deepstream-io",
   "version": "2.2.2",
   "description": "a scalable server for realtime webapps",
   "main": "src/deepstream.io.js",
@@ -31,7 +31,7 @@
     "js-yaml": "^3.8.1",
     "mkdirp": "^0.5.1",
     "needle": "^1.4.5",
-    "uws": "https://github.com/amitkverma/uws-dependency.git#v0.12.0"
+    "uws": "https://github.com/amitkverma/uws-dependency.git"
   },
   "devDependencies": {
     "async": "^2.1.4",
@@ -45,7 +45,7 @@
     "proxyquire": "1.7.11",
     "watch": "^1.0.1"
   },
-  "author": "deepstreamHub GmbH",
+  "author": "Amit Verma",
   "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/deepstreamIO/deepstream.io/issues"
